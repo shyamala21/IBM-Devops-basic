@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+*.out
+#Ignoring java output folder whihc is target
+target/
 
 # BlueJ files
 *.ctxt
